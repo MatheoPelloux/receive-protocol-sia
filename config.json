@@ -1,0 +1,17 @@
+{
+    "server": {
+      "host": "0.0.0.0",
+      "port": 5100
+    },
+    "database": {
+    "host": "localhost",
+    "user": "root",
+    "password": "votre_mot_de_passe",
+    "name": "votre_base_de_donnees"
+    },
+    "tls": {
+      "certfile": "certification/server.crt",
+      "keyfile": "certification/server.key"
+    }
+  }
+  
